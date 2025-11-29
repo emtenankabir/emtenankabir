@@ -3,7 +3,7 @@
 # Hi there, I'm Emtenan Kabir! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=Robotics+Innovator;IoT+Developer;Co-founder+%26+CTO+%40+SAPH.Ai;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=STEM+Enthusiast;Programmer;Roboticist" alt="Typing SVG" />
 </a>
 
 <br/>
