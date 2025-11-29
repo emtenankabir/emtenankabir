@@ -103,7 +103,7 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
 > Leading robotics & coding teams to address rural/urban challenges. We translate research into reliable technology and have secured seed funding for field implementation.
 
 ### 👨‍🏫 **Alumni Mentor @ Bangladesh Robot Olympiad (BdRO)**
-> Returned as an alumni guide to mentor "genius minds" and national teams preparing for the International Robot Olympiad, providing real-time guidance on robot building.
+> Returned as an alumni guide to mentor genius minds and national teams preparing for the International Robot Olympiad, providing real-time guidance on robot building.
 
 ### 🏕️ **Executive Member (Media & Publication Secretary) @ DRMC Adventure & Tour Club**
 > Managed communications, social media, and publications. Organized the "1st DRMC International Adventure Odyssey 2024".
