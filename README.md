@@ -90,9 +90,9 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
 
 | Project | Description | Tech/Tools |
 | :--- | :--- | :--- |
-| **Sewage Maintenance Robot** | 🚜 An autonomous rover with a mechanical arm and gas sensors (MQ135) to replace dangerous manual sewage cleaning. | *C++, IoT, Sensors* |
-| **Flexi-Grow** | 🌿 A soft-growing robot inspired by vines, designed for search & rescue in narrow terrains.| *ESP32, FPV Camera, Soft Robotics* |
-| **Water Contamination Detector** | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | *TensorFlow Lite, Python* |
+| **AI-Based Sewage Maintenance Robot** | 🚜 An autonomous rover with a mechanical arm and gas sensors (MQ135) to replace dangerous manual sewage cleaning. | *C++, IoT, Sensors, Python, openCV, Tensorflow* |
+| **Flexi-Grow: Soft Robot for Exploration** | 🌿 A soft-growing robot inspired by vines, designed for search & rescue in narrow terrains.| *ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng, Pneumatics* |
+| **ML-Based Water Contamination Detection** | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | *TensorFlow Lite, Python, pyTorch, openCV* |
 
 ---
 
