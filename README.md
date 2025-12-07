@@ -51,7 +51,9 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-FFFF00?style=for-the-badge&logo=yolo&logoColor=black&labelColor=black" />
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 <br/>
 
@@ -64,8 +66,15 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
 <br/>
 
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/SolidWorks-%23E02020.svg?style=for-the-badge&logo=solidworks&logoColor=white" />
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Code::Blocks-41ad48?style=for-the-badge&logo=codeblocks&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -90,9 +99,9 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
 
 | Project | Description | Tech/Tools |
 | :--- | :--- | :--- |
-| **AI-Based Sewage Maintenance Robot** | 🚜 An autonomous rover with a mechanical arm and gas sensors (MQ135) to replace dangerous manual sewage cleaning. | *C++, IoT, Sensors, Python, openCV, Tensorflow* |
+| **AI-Based Sewage Maintenance Robot** | 🚜 An autonomous rover with a mechanical arm and gas sensors (MQ135) to replace dangerous manual sewage cleaning. | *C++, IoT, Sensors, Python, OpenCV, TensorFlow* |
 | **Flexi-Grow: Soft Robot for Exploration** | 🌿 A soft-growing robot inspired by vines, designed for search & rescue in narrow terrains.| *ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng, Pneumatics* |
-| **ML-Based Water Contamination Detection** | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | *TensorFlow Lite, Python, pyTorch, openCV* |
+| **ML-Based Water Contamination Detection** | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | *TensorFlow Lite, Python, PyTorch, OpenCV* |
 
 ---
 
