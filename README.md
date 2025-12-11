@@ -85,7 +85,7 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/SAPH-Ai/AI-Assisted_Drainage_Sewage_Maintenance/blob/main/Images/robot_photo.jpg?raw=true" width="100%">
+        <img src="https://github.com/SAPH-Ai/AI-Assisted_Drainage_Sewage_Maintenance/blob/main/Photos/IMG_4555.jpg?raw=true" width="100%">
       </td>
       <td align="center">
         AI Assisted Drainage & Sewage Maintenance Robot
