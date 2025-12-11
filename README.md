@@ -85,7 +85,7 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/SAPH-Ai/AI-Assisted_Drainage_Sewage_Maintenance/blob/main/Photos/IMG_4555.jpg?raw=true" width="100%">
+        <img src="https://github.com/emtenankabir/emtenankabir/blob/main/Photos/IMG_4555.jpg?raw=true" width="100%">
       </td>
       <td align="center">
         AI Assisted Drainage & Sewage Maintenance Robot
@@ -99,7 +99,7 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
     </tr>
     <tr>
       <td align="center">
-        <img src="INSERT_IMAGE_LINK_HERE" width="100%">
+        <img src="https://github.com/emtenankabir/emtenankabir/blob/main/Photos/IMG_9116.PNG?raw=true" width="100%">
       </td>
       <td align="center">
         6 Wheeler Robot for Pipeline Inspection
@@ -113,7 +113,7 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
     </tr>
     <tr>
       <td align="center">
-        <img src="INSERT_IMAGE_LINK_HERE" width="100%">
+        <img src="https://github.com/emtenankabir/emtenankabir/blob/main/Photos/IMG_9118.JPEG?raw=true" width="100%">
       </td>
       <td align="center">
         Flexi-Grow: AI-Enabled Soft Robot for Exploration
@@ -127,7 +127,7 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
     </tr>
     <tr>
       <td align="center">
-        <img src="INSERT_IMAGE_LINK_HERE" width="100%">
+        <img src="https://github.com/emtenankabir/emtenankabir/blob/main/Photos/IMG_9119.PNG?raw=true" width="100%">
       </td>
       <td align="center">
         Low-cost ML-Based Water Contamination Detection
