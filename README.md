@@ -28,80 +28,107 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
 
 ---
 
-## 🏆 Trophy Case
+<h2 align="center">🛠️ Tech & Tools</h2>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=emtenankabir&theme=flat&no-frame=true&column=7&margin-w=15" alt="Emtenan's Trophies" />
-  </a>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-FFFF00?style=for-the-badge&logo=yolo&logoColor=black&labelColor=black" />
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stm32&logoColor=white" />
-<img src="https://img.shields.io/badge/Espressif-ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/SolidWorks-%23E02020.svg?style=for-the-badge&logo=solidworks&logoColor=white" />
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>Languages</h4>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h4>AI & Vision</h4>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-FFFF00?style=for-the-badge&logo=yolo&logoColor=black&labelColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>Hardware & IoT</h4>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h4>Tools & Design</h4>
+      <img src="https://img.shields.io/badge/SolidWorks-%23E02020.svg?style=for-the-badge&logo=solidworks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+      <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Code::Blocks-41ad48?style=for-the-badge&logo=codeblocks&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<h2 align="center">🤖 Projects & Repositories</h2>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/emtenankabir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emtenankabir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtenankabir&layout=compact&theme=radical"/>
-  </a>
-</div>
-
----
-
-## 🤖 Featured Projects
-
-| Project | Description | Tech/Tools |
-| :--- | :--- | :--- |
-| **AI-Based Sewage Maintenance Robot** | 🚜 An autonomous rover with a mechanical arm and gas sensors (MQ135) to replace dangerous manual sewage cleaning. | *C++, IoT, Sensors, Python, OpenCV, TensorFlow* |
-| **Flexi-Grow: Soft Robot for Exploration** | 🌿 A soft-growing robot inspired by vines, designed for search & rescue in narrow terrains.| *ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng, Pneumatics* |
-| **ML-Based Water Contamination Detection** | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | *TensorFlow Lite, Python, PyTorch, OpenCV* |
+<table>
+  <thead>
+    <tr>
+      <th width="20%">Preview</th>
+      <th width="25%">Project</th>
+      <th width="35%">Description</th>
+      <th width="20%">Tech/Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/SAPH-Ai/AI-Assisted_Drainage_Sewage_Maintenance/blob/main/Images/robot_photo.jpg?raw=true" width="100%">
+      </td>
+      <td>
+        <a href="https://github.com/SAPH-Ai/AI-Assisted_Drainage_Sewage_Maintenance">
+          <b>AI Assisted Drainage & Sewage Maintenance Robot</b>
+        </a>
+      </td>
+      <td>🤖 An autonomous robot with a mechanical arm, AI camera, and sensors to replace dangerous manual drainage cleaning.</td>
+      <td>C++, IoT, Sensors, Python, OpenCV, TensorFlow</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="INSERT_IMAGE_LINK_HERE" width="100%">
+      </td>
+      <td>
+        <a href="#">
+          <b>6 Wheeler Robot for Pipeline Inspection</b>
+        </a>
+      </td>
+      <td>🚜 An autonomous robot with a mechanical arm, AI camera, and sensors designed for rugged pipeline terrain.</td>
+      <td>C++, IoT, Sensors, Python, OpenCV, TensorFlow</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="INSERT_IMAGE_LINK_HERE" width="100%">
+      </td>
+      <td>
+        <a href="#">
+          <b>Flexi-Grow: AI-Enabled Soft Robot for Exploration</b>
+        </a>
+      </td>
+      <td>🌿 A textile-based soft-growing robot, driven by AI and pneumatics, designed for search & rescue in narrow terrains.</td>
+      <td>ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="INSERT_IMAGE_LINK_HERE" width="100%">
+      </td>
+      <td>
+        <a href="#">
+          <b>Low-cost ML-Based Water Contamination Detection</b>
+        </a>
+      </td>
+      <td>💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2.</td>
+      <td>TensorFlow Lite, Python, PyTorch, OpenCV</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -126,13 +153,3 @@ As the **Co-founder & CTO of SAPH.Ai** and an **International Robot Olympiad Sil
 
 ### 🏕️ **Executive Member (Media & Publication Secretary) @ DRMC Adventure & Tour Club**
 > Managed communications, social media, and publications. Organized the "1st DRMC International Adventure Odyssey 2024".
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emtenankabir&theme=react-dark" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emtenankabir&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
